@@ -1,0 +1,1 @@
+To view how to interact with our API, head over to https://docs.tiertests.com.

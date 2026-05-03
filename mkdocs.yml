@@ -1,8 +1,0 @@
-site_name: TierTests Public API
-nav:
-  - Home: index.md
-  - Authentication: authentication.md
-  - Rate Limits: rate-limits.md
-  - Endpoints:
-      - Tiers: endpoints/tiers.md
-      - Users: endpoints/users.md
